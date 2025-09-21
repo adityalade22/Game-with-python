@@ -6,6 +6,6 @@ print("Hello, World!")
 #This is my fourth comment
 A =int(input("Enter a number: "))
 if A<=9:
-    print("the given number has only has one digits")
+    print("The given number has only has one digits")
 else:
-    print("the given number has two digits")
+    print("The given number has two digits")
