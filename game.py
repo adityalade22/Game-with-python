@@ -5,7 +5,7 @@ if A<=9:
 
 elif A<=100:
     print("the given number has three digits")
-
+#new stage
 else:
     print("the given number has two digits")
 
